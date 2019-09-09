@@ -28,6 +28,8 @@ OR
    year={2000}
    }
 
+This repository can also be cited as:
+
 [![DOI](https://zenodo.org/badge/207253138.svg)](https://zenodo.org/badge/latestdoi/207253138)
 
 # Acknowledgements
