@@ -28,5 +28,7 @@ OR
    year={2000}
    }
 
+[![DOI](https://zenodo.org/badge/207253138.svg)](https://zenodo.org/badge/latestdoi/207253138)
+
 # Acknowledgements
 Work with the Komi-Zyrian lexicon, native evaluation and mobility, has been further funded by a Kordelin Foundation in 1996.
