@@ -3,6 +3,7 @@ open-source finite-state morphological descriptions of Komi-Zyrian
 
 # Introduction
 Work with finite-state description of Komi-Zyrian was introduced at the sixth Permistica symposium in Izhevsk, Republic of Udmurtia, November 20–21, 1996.
+Subsequent work was begun in 2004 in the Giellatekno infrastructure (University of Tromsø, Norway) – now extended to the Giella infrastructure at the Norwegian Arctic University in Tromsø, and collaboration has evolved with FU-Lab in Syktyvkar, Komi Repubic, Russian Federation (2012->).
 
 # Docs
 The initial documentation includes:
@@ -26,3 +27,6 @@ OR
    pages={154--158},
    year={2000}
    }
+
+# Acknowledgements
+Work with the Komi-Zyrian lexicon, native evaluation and mobility, has been further funded by a Kordelin Foundation in 1996.
