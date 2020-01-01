@@ -1,0 +1,34 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Pronoun - ме: # Personal Pronoun 'I / minä / я'
+    ме+Pron+Pers+Sg1+Nom: ме
+    ме+Pron+Pers+Sg1+Acc: менӧ
+    ме+Pron+Pers+Sg1+Gen: [менам, менамлӧн, мелӧн]
+    ме+Pron+Pers+Sg1+Dat: [меным, мем, мен, менлы]
+    ме+Pron+Pers+Sg1+Ins: [меӧн, менамӧн] 
+    ме+Pron+Pers+Sg1+Com: [мекӧд, менамкӧд]
+    ме+Pron+Pers+Sg1+Car: [метӧг, менамтӧг]
+    ме+Pron+Pers+Sg1+Cns: [мела]
+    ме+Pron+Pers+Sg1+Ine: [меын]
+    ме+Pron+Pers+Sg1+Ela: [меысь, менсьым, менамысь]
+    ме+Pron+Pers+Sg1+Ill: [меӧ, менамӧ]
+    ме+Pron+Pers+Sg1+Apr: [мелань]
+    ме+Pron+Pers+Sg1+Egr: [месянь, менамсянь]
+    ме+Pron+Pers+Sg1+Prl: [меӧд]
+    ме+Pron+Pers+Sg1+Tra: [меті]
+    ме+Pron+Pers+Sg1+Ter: [меӧдз, менамӧдз]
+
